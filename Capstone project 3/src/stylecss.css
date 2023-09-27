@@ -1,0 +1,39 @@
+.backgroundimage{
+    background-image: url('../src/components/project/images/img1.jpeg'); 
+  background-size: cover;
+}
+
+.backgroundimage1{
+    background-image: url('../src/components/project/images/sthetescope.jpeg'); 
+  background-size: cover;
+}
+
+.backgroundimage2{
+    background-image: url('../src/components/project/images/dentalcheck.jpeg'); 
+  background-size: cover;
+}
+
+.backgroundimage3{
+    background-image: url('../src/components/project/images/birthcare.jpeg'); 
+  background-size: cover;
+}
+
+.backgroundimage4{
+    background-image: url('../src/components/project/images/doc1.png'); 
+  background-size: cover;
+}
+
+.backgroundimage5{
+    background-image: url('../src/components/project/images/doc2.png'); 
+  background-size: cover;
+}
+
+.backgroundimage6{
+    background-image: url('../src/components/project/images/doc3.png'); 
+  background-size: cover;
+}
+
+.backgroundimage7{
+    background-image: url('../src/components/project/images/wrldmap.png'); 
+  background-size: cover;
+}
